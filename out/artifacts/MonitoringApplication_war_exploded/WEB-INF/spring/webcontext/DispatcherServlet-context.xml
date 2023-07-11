@@ -24,8 +24,4 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
-    <bean id="applicationFacet" class="org.monitoring.facettes.impl.DefaultApplicationFacet">
-
-    </bean>
-
 </beans>
