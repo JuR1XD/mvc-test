@@ -1,0 +1,3 @@
+serverURL = http://localhost:9001/monitoring/monitoring/
+testValue.1 = CheckDatabaseStatus;Current status of DB:
+testValue.2 = CheckHybrisServer;Current status of the Hybris Server:

@@ -1,0 +1,7 @@
+org.monitoring.apod
+org.monitoring.controller
+org.monitoring.facettes
+org.monitoring.facettes.impl
+org.monitoring.items
+org.monitoring.service
+org.monitoring.service.impl
